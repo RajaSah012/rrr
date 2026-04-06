@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Shyam Monani",
+    "role": "Lorem ipsum",
+    "image": "/team1.png",
+    "frame": "/frame9.png",
+    "quote": "/quote5.png"
+  },
+  {
+    "name": "Heena Paleja",
+    "role": "Primary School Principle",
+    "image": "/team2.png",
+    "frame": "/frame10.png",
+    "quote": "/quote6.png"
+  },
+  {
+    "name": "Janvi Shah",
+    "role": "Pre School Principle",
+    "image": "/team3.png",
+    "frame": "/frame11.png",
+    "quote": "/quote7.png"
+  },
+  {
+    "name": "Urmi Shah",
+    "role": "Pre School Center Head",
+    "image": "/team4.png",
+    "frame": "/frame12.png",
+    "quote": "/quote8.png"
+  },
+  {
+    "name": "Owee Dalal",
+    "role": "Pre School Center Head",
+    "image": "/team5.png",
+    "frame": "/frame13.png",
+    "quote": "/quote9.png"
+  },
+  {
+    "name": "Saloni Sheth",
+    "role": "Pre School Center Head",
+    "image": "/team6.png",
+    "frame": "/frame14.png",
+    "quote": "/quote10.png"
+  }
+]

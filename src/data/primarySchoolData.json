@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Subject Rooms",
+    "description": "We believe the traditional model of one fixed classroom per year limits a child's exposure and restricts the depth of learning, so at Raising Right, we have reimagined this structure entirely. Instead of confined classrooms for each grade, children move through thoughtfully designed, purpose-driven spaces dedicated to individual subjects, each equipped with specialised resources and guided by educators with deep subject expertise. These environments are crafted to spark exploration, encourage creativity, and enable immersive, focused learning—transforming the way children engage with knowledge into something dynamic, meaningful, and deeply engaging.",
+    "image": "/primaryschool2.png",
+    "align": "left",
+    "shadowColor": "#CED0EF"
+  },
+  {
+    "title": "Curriculum",
+    "description": "At the core lies a curriculum which is a blend of IGCSE and CBSE integrated up to Grade 8th, combining the best that both boards have to offer. The content is both rigorous and meaningful, thoughtfully designed to build strong academic foundations while encouraging depth, clarity, and independent thinking. From enriching age-specific special modules that cover practical learning beyond books or syllabus to discipline-building programs like NCC (National Cadet Corps), it is a curriculum that does not merely inform, but transforms. Equally, we take pride in celebrating Indian brilliance, rooted in the richness of our heritage—from timeless wisdom and philosophies to pioneering modern achievements—ensuring children remain grounded in their identity while developing a global perspective.",
+    "image": "/primaryschool3.png",
+    "align": "right",
+    "shadowColor": "#55C0DA"
+  }
+]
