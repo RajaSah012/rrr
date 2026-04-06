@@ -1,0 +1,44 @@
+[
+  {
+    "title": "5 classrooms, 1 for each day - Arts, Science, Music, Play, Language",
+    "description": "Resourceful Subject specific rooms - Different for each day of the week. We curate our own curriculum combining the best learning content across the globe, yet celebrating Indian roots with excellence. Monthly Assessment of Learner's Profile on various behavioural and temperamental attributes.",
+    "image": "/preschool1.png",
+    "shadowColor": "#F5BEC9",
+    "align": "right"
+  },
+  {
+    "title": "15 Kids in a class, with 2 Teachers and 1 assistant",
+    "description": "Here Kids are encouraged to follow their natural flow, experiment, and even create a little \"controlled mess,\" making learning a joyful and engaging experience.",
+    "image": "/preschool2.png",
+    "shadowColor": "#CED0EF",
+    "align": "left"
+  },
+  {
+    "title": "Curriculum",
+    "description": "<span style='color:#F59E0B; font-weight:600;'>Playgroup (2-3 years)</span> - Adaptation to new environment and people through play, exploration, and sensory activities. <span style='color:#7C81C9; font-weight:600;'>Nursery (3-4 years)</span> - Early literacy, independent existence, and creative expression with introduction to strong extracurricular activities. <span style='color:#3B82F6; font-weight:600;'>Jr. KG (4-5 years)</span> - Concept development, communication skills, and confidence building with introduction of multiple languages. <span style='color:#10B981; font-weight:600;'>Sr. KG (5-6 years)</span> - School readiness, structured learning, and independent thinking as a bridge to primary school.",
+    "image": "/preschool3.png",
+    "shadowColor": "#55C0DA",
+    "align": "right"
+  },
+  {
+    "title": "Safety",
+    "description": "Our campus is under continuous CCTV surveillance to ensure a safe and secure environment. Our team is trained and equipped to respond swiftly to medical and fire emergencies. With clear protocols in place, child's safety is always our top priority.",
+    "image": "/preschool4.png",
+    "shadowColor": "#CAE9D2",
+    "align": "left"
+  },
+  {
+    "title": "Curriculum",
+    "description": "<span style='color:#F59E0B; font-weight:600;'>Playgroup (2-3 years)</span> - Adaptation to new environment and people through play, exploration, and sensory activities. <span style='color:#7C81C9; font-weight:600;'>Nursery (3-4 years)</span> - Early literacy, independent existence, and creative expression with introduction to strong extracurricular activities. <span style='color:#3B82F6; font-weight:600;'>Jr. KG (4-5 years)</span> - Concept development, communication skills, and confidence building with introduction of multiple languages. <span style='color:#10B981; font-weight:600;'>Sr. KG (5-6 years)</span> - School readiness, structured learning, and independent thinking as a bridge to primary school.",
+    "image": "/preschool3.png",
+    "shadowColor": "#55C0DA",
+    "align": "right"
+  },
+  {
+    "title": "Safety",
+    "description": "Our campus is under continuous CCTV surveillance to ensure a safe and secure environment. Our team is trained and equipped to respond swiftly to medical and fire emergencies. With clear protocols in place, child's safety is always our top priority.",
+    "image": "/preschool4.png",
+    "shadowColor": "#CAE9D2",
+    "align": "left"
+  }
+]

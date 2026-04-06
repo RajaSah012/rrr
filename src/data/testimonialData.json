@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Fun For Everyone!",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "name": "Suresh Kumar Singh",
+        "role": "Aditya's Father",
+        "image": "/testi1.png",
+        "frame": "/frame3.png",
+        "quote": "/quote2.png"
+    },
+    {
+        "title": "Great Staff !",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "name": "Aakashee",
+        "role": "Ruhi's Mother",
+        "image": "/testi2.png",
+        "frame": "/frame4.png",
+        "quote": "/quote1.png"
+    },
+    {
+        "title": "Lots of Fun and Learning!",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "name": "Abhinav Singh",
+        "role": "Naman's Father",
+        "image": "/testi3.png",
+        "frame": "/frame5.png",
+        "quote": "/quote3.png"
+    }
+]
