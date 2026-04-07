@@ -8,7 +8,9 @@ import ContactUs from "./pages/ContactUs";
 import Foundation from "./pages/Foundation";
 import PrimarySchool from "./pages/PrimarySchool";
 import Testimonials from "./pages/Testimonials";
-
+import WhatMakesUsDifferent from "./pages/WhatMakesUsDifferent";
+import TermsAndConditions from "./pages/TermsAndConditions";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
 
 function App() {
     return (
@@ -24,6 +26,9 @@ function App() {
             <Route path="/primary-school" element={<PrimarySchool />} />
             <Route path="/primaryschool" element={<PrimarySchool />} />
             <Route path="/testimonials" element={<Testimonials />} />
+            <Route path="/what-makes-us-different" element={<WhatMakesUsDifferent />} />
+            <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
         </Routes>
     );
 }

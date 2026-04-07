@@ -1,5 +1,6 @@
 import React from "react";
 import { FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const Wave = () => (
   <div className="relative">
@@ -42,19 +43,19 @@ const Footer = () => {
           </div>
         </div>
 
-        <div>
-          <h3 className="text-xl font-semibold mb-6 font-space-grotesk">Quick Links</h3>
-          <div className="space-y-4 text-[#FDE68A] font-poppins">
-            <p className="flex items-center gap-2">
-              <img src="/mingcute_arrows-left-line.png" alt="arrow" className="w-5 h-5" />
-              Terms and Conditions
-            </p>
-            <p className="flex items-center gap-2">
-              <img src="/mingcute_arrows-left-line.png" alt="arrow" className="w-5 h-5" />
-              Privacy Policy
-            </p>
-          </div>
-        </div>
+       <div>
+  <h3 className="text-xl font-semibold mb-6 font-space-grotesk">Quick Links</h3>
+  <div className="space-y-4 text-[#FDE68A] font-poppins">
+    <Link to="/terms-and-conditions" className="flex items-center gap-2">
+      <img src="/mingcute_arrows-left-line.png" alt="arrow" className="w-5 h-5" />
+      Terms & Conditions
+    </Link>
+    <Link to="/privacy-policy" className="flex items-center gap-2">
+      <img src="/mingcute_arrows-left-line.png" alt="arrow" className="w-5 h-5" />
+      Privacy Policy
+    </Link>
+  </div>
+</div>
 
         <div>
           <h3 className="text-xl font-semibold mb-6 font-space-grotesk">Locations</h3>
