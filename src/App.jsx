@@ -11,25 +11,28 @@ import Testimonials from "./pages/Testimonials";
 import WhatMakesUsDifferent from "./pages/WhatMakesUsDifferent";
 import TermsAndConditions from "./pages/TermsAndConditions";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
+import AppLayout from "./layouts/AppLayout";
 
 function App() {
     return (
-        <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/home" element={<Home2 />} />
-            <Route path="/preschool" element={<PreSchool />} />
-            <Route path="/team" element={<Team />} />
-            <Route path="/gallery" element={<Gallery />} />
-            <Route path="/contact-us" element={<ContactUs />} />
-            <Route path="/contactus" element={<ContactUs />} />
-            <Route path="/foundation" element={<Foundation />} />
-            <Route path="/primary-school" element={<PrimarySchool />} />
-            <Route path="/primaryschool" element={<PrimarySchool />} />
-            <Route path="/testimonials" element={<Testimonials />} />
-            <Route path="/what-makes-us-different" element={<WhatMakesUsDifferent />} />
-            <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
-            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-        </Routes>
+        <AppLayout>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/home" element={<Home2 />} />
+                <Route path="/preschool" element={<PreSchool />} />
+                <Route path="/team" element={<Team />} />
+                <Route path="/gallery" element={<Gallery />} />
+                <Route path="/contact-us" element={<ContactUs />} />
+                <Route path="/contactus" element={<ContactUs />} />
+                <Route path="/foundation" element={<Foundation />} />
+                <Route path="/primary-school" element={<PrimarySchool />} />
+                <Route path="/primaryschool" element={<PrimarySchool />} />
+                <Route path="/testimonials" element={<Testimonials />} />
+                <Route path="/what-makes-us-different" element={<WhatMakesUsDifferent />} />
+                <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
+                <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+            </Routes>
+        </AppLayout>
     );
 }
 

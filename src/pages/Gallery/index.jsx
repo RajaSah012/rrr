@@ -123,7 +123,7 @@ const Gallery = () => {
             <button
               key={tab}
               onClick={() => { setActiveTab(tab); setActiveLocation("All Locations"); }}
-              className={`px-[22px] py-[10px] rounded-full text-[22px] border-none cursor-pointer outline-none transition-all duration-200 font-['Space_Grotesk'] font-semibold ${
+              className={`px-[18px] py-[8px] rounded-full text-[22px] border-none cursor-pointer outline-none transition-all duration-200 font-['Space_Grotesk'] font-semibold ${
                 activeTab === tab ? "bg-[#36A6AE] text-white" : "bg-white text-[#252525]"
               }`}
             >
@@ -138,7 +138,7 @@ const Gallery = () => {
             <button
               key={loc}
               onClick={() => setActiveLocation(loc)}
-              className={`px-[18px] py-[6px] rounded-full text-lg cursor-pointer outline-none transition-all duration-200 font-['Poppins'] ${
+              className={`px-[14px] py-[5px] rounded-full text-lg cursor-pointer outline-none transition-all duration-200 font-['Poppins'] ${
                 activeLocation === loc
                   ? "bg-[#ED8F8F] text-white border-none"
                   : "bg-white text-[#ED8F8F] border-[1.5px] border-[#ED8F8F]"
